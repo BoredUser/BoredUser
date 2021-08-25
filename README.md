@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ## It's a me BoredUser
 <p align="center">
-<a href="https://github.com/BoredUser">
    <img height="200" src="https://user-images.githubusercontent.com/26546389/130835295-0fc0bccc-724b-4867-a5ae-c1a741c6a787.jpg" /> 
-</a>
 </p>
 
 ----
@@ -41,11 +39,8 @@ A Devloper from India with a passion for programming.Reading documentation and s
 
 <!-- ![](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg) -->
 <p align="center">
-<a href="https://github.com/BoredUser">
-<!--   ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg) -->
-  <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg"/>
+   <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg"/>
    <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg" />
-</a>
 </p>
 
 
