@@ -14,3 +14,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### It's a me BoredUser
+
+
+----
+
+A Devloper from India with a passion for programming. 
+
+-----
+
+Skills:
+
+- Web Develpment 
+- Machine learning 
+- Python
+- Spring 
+- JS
+
+-----
+<a href="https://github.com/BoredUser">
+<!--   <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" /> -->
+</a>
+
+
+***
+
+<a href="https://github.com/Daggy1234">
+  <img src="![](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg)
+" />
+</a>
+
+---
+
+<a href="https://github.com/BoredUser">
+  <img src="![](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg)
+" />
+</a>
+
+
+Feel free to chat with me on discord.
+
+-----
+
+
+Have a Great Day!
+
+⭐️ From [BoredUser](https://github.com/BoredUser)
