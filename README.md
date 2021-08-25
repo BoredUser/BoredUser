@@ -39,23 +39,21 @@ Skills:
 
 
 ***
+![](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg)
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/BoredUser">
   ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg)
-  <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg
-" />
+  <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg"/>
 </a>
 
 ---
+![](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg)
 
 <a href="https://github.com/BoredUser">
   ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg)
-  <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg
-" />
+  <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg" />
 </a>
 
-
-Feel free to chat with me on discord.
 
 -----
 
