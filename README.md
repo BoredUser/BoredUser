@@ -31,10 +31,11 @@ Skills:
 - Python
 - Spring 
 - JS
+![Polarized BW 1](https://user-images.githubusercontent.com/26546389/130835295-0fc0bccc-724b-4867-a5ae-c1a741c6a787.jpg)
 
 -----
 <a href="https://github.com/BoredUser">
-<!--   <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" /> -->
+   <img src="https://user-images.githubusercontent.com/26546389/130835295-0fc0bccc-724b-4867-a5ae-c1a741c6a787.jpg" /> 
 </a>
 
 
