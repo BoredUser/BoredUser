@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## It's a me BoredUser
+## It's me BoredUser
 <p align="center">
    <img height="200" src="https://user-images.githubusercontent.com/26546389/130835295-0fc0bccc-724b-4867-a5ae-c1a741c6a787.jpg" /> 
 </p>
