@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ----
 
-A Devloper from India with a passion for programming. Reading documentation and source codes ;)
+A Developer from India with a passion for programming. Reading documentation and source codes ;)
 
 -----
 
