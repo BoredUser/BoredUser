@@ -39,18 +39,18 @@ Skills:
 
 
 ***
-![](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg)
+<!-- ![](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg) -->
 
 <a href="https://github.com/BoredUser">
-  ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg)
+<!--   ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg) -->
   <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg"/>
 </a>
 
 ---
-![](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg)
+<!-- ![](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg) -->
 
 <a href="https://github.com/BoredUser">
-  ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg)
+<!--   ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg) -->
   <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg" />
 </a>
 
