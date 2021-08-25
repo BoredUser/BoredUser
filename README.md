@@ -41,14 +41,16 @@ Skills:
 ***
 
 <a href="https://github.com/Daggy1234">
-  <img src="![](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg)
+  ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg)
+  <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/overview.svg
 " />
 </a>
 
 ---
 
 <a href="https://github.com/BoredUser">
-  <img src="![](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg)
+  ![Alt text](https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg)
+  <img src="https://github.com/BoredUser/Git-Stats/blob/master/generated/languages.svg
 " />
 </a>
 
