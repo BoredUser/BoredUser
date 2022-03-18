@@ -28,11 +28,11 @@ A Developer from India with a passion for programming. Reading documentation and
 
 ### Skills:
 
-- Web Develpment 
+- FullStack Develpment 
 - Machine learning 
 - Python
-- Spring 
-- JS
+- Java 
+- NodeJS
 
 
 -----
