@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**BoredUser/BoredUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rahul-2110/Rahul-2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## It's me BoredUser
+## It's me Rahul
 <p align="center">
    <img height="200" src="https://user-images.githubusercontent.com/26546389/130835295-0fc0bccc-724b-4867-a5ae-c1a741c6a787.jpg" /> 
 </p>
@@ -49,4 +49,4 @@ A Developer from India with a passion for programming. Reading documentation and
 
 Have a Great Day!
 
-⭐️ From [BoredUser](https://github.com/BoredUser)
+⭐️ From [Rahul](https://github.com/Rahul-2110)
